@@ -1,0 +1,18 @@
+// Color Variables
+
+$color-primary: rgb(49, 211, 92);
+$color-secondary: rgb(43, 183, 218);
+$color-dark: rgb(45, 49, 77);
+$color-dark-light: rgb(150, 152, 166);
+$color-light: rgb(243, 244, 246);
+$color-white: rgb(255, 255, 255);
+$color-white-light: rgb(250, 250, 250);
+
+// Font-Sizes
+$default-font-size: 1.125rem;
+$link-font-size: 1rem;
+$small-font-size: 0.9rem;
+$smaller-font-size: 0.8rem;
+
+// Background-image Linear gradient
+$background-image: linear-gradient(to right, $color-primary, $color-secondary);

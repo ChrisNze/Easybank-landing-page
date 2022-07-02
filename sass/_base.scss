@@ -1,0 +1,13 @@
+html {
+	font-size: 100% !important;
+}
+
+body {
+	font-family: "Public Sans", sans-serif;
+	background-color: $color-white-light;
+}
+
+::selection {
+	background-color: $color-primary;
+	color: $color-white;
+}
